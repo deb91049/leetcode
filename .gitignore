@@ -16,4 +16,4 @@ node_modules/
 #idea
 .idea/
 *.iml
-out/
+/out/
