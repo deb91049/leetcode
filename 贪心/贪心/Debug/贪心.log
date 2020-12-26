@@ -1,0 +1,3 @@
+﻿  源1.cpp
+E:\Desktop\resource\算法设计\贪心\贪心\源1.cpp(27,18): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  贪心.vcxproj -> E:\Desktop\resource\算法设计\贪心\Debug\贪心.exe
